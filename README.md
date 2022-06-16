@@ -35,13 +35,13 @@ For generating clear and standard commit messages.
 For keeping visual consistency and responsiveness.
 
 ## <a name="routes">4. Routes</a>
-### `/home`
-Set as the default route.
+### `/`
+Homepage set as the default route.
 ### `/web-design`
 ### `/app-design`
 ### `/graphic-design`
-### `/about-us`
+### `/about`
 ### `/locations`
 ### `/contact`
 ### `*`
-404 Route handles nonexistent routes. It is redirected to `/404` that displays a not found message.
+Handles nonexistent routes. It is redirected to `/404` that displays a not found message.
