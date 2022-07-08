@@ -1,8 +1,8 @@
-export { default as Home } from './home';
-export { default as WebDesign } from './web-design';
-export { default as AppDesign } from './app-design';
-export { default as GraphicDesign } from './graphic-design';
-export { default as About } from './about';
-export { default as Locations } from './locations';
-export { default as Contact } from './contact';
-export { default as NotFound } from './not-found';
+export { default as Home } from './home-page';
+export { default as WebDesign } from './web-design-page';
+export { default as AppDesign } from './app-design-page';
+export { default as GraphicDesign } from './graphic-design-page';
+export { default as About } from './about-page';
+export { default as Locations } from './locations-page';
+export { default as Contact } from './contact-page';
+export { default as NotFound } from './not-found-page';

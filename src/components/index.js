@@ -1,0 +1,9 @@
+export { default as Footer } from './footer/footer';
+export { default as SocialLinks } from './footer/social-links';
+export { default as Header } from './header/header';
+export { default as SkillsCard } from './home-page/skills-card';
+export { default as GetInTouch } from './shared/get-in-touch-card';
+export { default as Locations } from './shared/locations';
+export { default as ViewProjectsCard } from './shared/view-projects-card';
+export { default as NavBar } from './shared/header-and-footer/nav-bar';
+export { default as NavLinks } from './shared/header-and-footer/nav-links';

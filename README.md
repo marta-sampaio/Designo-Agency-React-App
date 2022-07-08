@@ -32,7 +32,9 @@ For building a SPA.
 ### `commitizen` 
 For generating clear and standard commit messages.
 ### `@mui/material`
-For keeping visual consistency and responsiveness.
+Well, because I wanted to :).
+### `@emotion/react`
+For writing css styles with JavaScript.
 
 ## <a name="routes">4. Routes</a>
 ### `/`
