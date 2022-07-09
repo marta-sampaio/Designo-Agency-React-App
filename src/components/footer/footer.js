@@ -10,7 +10,7 @@ export default function Footer() {
 
     const isFooter = true;
     const socialMediaList = ['facebook', 'youtube', 'twitter', 'pinterest', 'instagram'];
-    const { isMobile, isTablet, isDesktop } = useBreakpoints();
+    const { isMobile } = useBreakpoints();
 
     return (
         <Stack component='footer'

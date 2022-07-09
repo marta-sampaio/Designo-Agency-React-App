@@ -14,7 +14,7 @@ export default function SocialLinks({ socialMedia }) {
     /* Pass that array to a function that turns it into an object that has keys matched to their filename  */
     function importAll(r) {
         let icon = {};
-        r.keys().map(item => { icon[item.replace('./', '')] = r(item); });
+        r.keys().map(item => { return icon[item.replace('./', '')] = r(item); });
         return icon;
     };
 
